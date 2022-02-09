@@ -1,0 +1,4 @@
+a:8:{s:8:"clientid";s:12:"客戶編號";s:12:"configplugin";s:18:"Picasa倉儲設定";s:9:"oauthinfo";s:434:"<p>要使用這外掛，您需要在Google註冊你的網站，依照這文件 <a href="{$a->docsurl}">Google OAuth 2.0 設定</a>的描述。</p>
+<p>在註冊的過程中，您將需要輸入以下的網址，作為"認證後重新導向的網址"：</p>
+<p>{$a->callbackurl}</p>
+<p>一旦註冊完，您將會得到用戶端 ID和用戶端密碼，這兩者可用來設定所有的Google雲端硬碟和 Picasa 相本的外掛。</p>";s:11:"picasa:view";s:18:"檢視Picasa倉儲";s:10:"pluginname";s:18:"Picasa網路相簿";s:6:"secret";s:6:"密碼";s:34:"privacy:metadata:repository_picasa";s:134:"The Picasa web album repository plugin does not store any personal data, but does transmit user data from Moodle to the remote system.";s:45:"privacy:metadata:repository_picasa:searchtext";s:45:"The Picasa repository user search text query.";}

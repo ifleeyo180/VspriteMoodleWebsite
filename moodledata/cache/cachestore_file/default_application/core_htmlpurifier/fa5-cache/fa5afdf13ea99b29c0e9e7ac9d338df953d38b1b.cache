@@ -1,0 +1,19 @@
+s:1788:"<p>這一工具可以建立一個 JMeter 測試計畫，並附有用戶身分檔案。</p>
+
+<p>這一測試計畫是設計來與<a href="https://github.com/moodlehq/moodle-performance-comparison">https://github.com/moodlehq/moodle-performance-comparison</a>共同使用，它使在一特定的Moodle環境中更容易執行測試計畫、蒐集執行的訊息，和比較這些結果。因此你將需要下載它，並使用它的 test_runner.sh 腳本，或者遵循它的安裝和使用說明。</p>
+
+<p>你必須在 config.php 為這課程用戶設定一密碼(例如， $CFG-&gt;tool_generator_users_password = 'moodle';)。 這裡不設定密碼的預設值以防止無意中使用了這工具。你必須使用這一更新的密碼選項，tool_generator 產生但沒有設一個 $CFG-&gt;tool_generator_users_password的值。</p>
+
+<p>它是 tool_generator 的一部份，所以它能和這課程和這網站產生器產生的課程協同運作良好。它也可以被用在至少包含下列條件的任何課程：</p>
+
+<ul>
+<li>足夠的選課用戶(視你選擇的測試計畫大小而定)，且其密碼都被重設為"moodle"。</li>
+<li>一個頁面模組實例。</li>
+<li>一個討論區模組實例，且至少含有一議題和一個回應。</li>
+</ul>
+
+<p>由於JMeter所產生的測試計畫可以非常的大，所以你在執行大型測試計畫時，可能要考慮你的伺服器的性能。這裝載階段已經依照執行緒(用戶)人數調整過，以減少這類的問題，但是負荷仍是很大。</p>
+
+<p><strong>不要在一個正式使用的系統上執行測試計畫</strong>
+這一功能只是建立一個檔案來匯入JMeter，所以它本身沒有危險性，但是你絕對不要在一正式運作的網站上執行這一測試計畫。</p>
+";

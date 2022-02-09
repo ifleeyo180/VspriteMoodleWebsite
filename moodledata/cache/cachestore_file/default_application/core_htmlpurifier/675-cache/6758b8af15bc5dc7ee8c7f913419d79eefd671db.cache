@@ -1,0 +1,14 @@
+s:1001:"<p>這外部工具活動模組可以讓學生與在其他網站上的學習資源和活動進行互動。</p>
+
+<p>要建立一個外部工具活動，需要有一個支援學習工具互通性(Learning Tools Interoperability, LTI)的工具提供者。教師可以建立一個外部工具活動，或者直接使用網站管理員所配置的工具。</p>
+
+<p>外部工具活動與一般的網路資源有一些差異：</p>
+
+<ul>
+<li>外部工具是情境敏感的，比如說，他們會取得啟動這工具的用戶的資訊，例如機構、課程、學生姓名等。</li>
+<li>外部工具支援閱讀、更新、和刪除與這活動有關的分數。</li>
+<li>外部工具的配置會在你的網站和工具提供者之間建立一個信任關係，允需他們之間進行安全的溝通。</li>
+</ul>
+
+<div class="helpdoclink"><a href="https://docs.moodle.org/311/zh_tw/mod/lti/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>更多輔助</a></div>
+";

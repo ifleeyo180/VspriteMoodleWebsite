@@ -1,0 +1,476 @@
+[Sun Jan 09 00:32:40.199342 2022] [ssl:warn] [pid 5544:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 00:32:40.306577 2022] [ssl:warn] [pid 5544:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 00:32:40.433231 2022] [mpm_winnt:notice] [pid 5544:tid 568] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 09 00:32:40.433231 2022] [mpm_winnt:notice] [pid 5544:tid 568] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 09 00:32:40.433231 2022] [core:notice] [pid 5544:tid 568] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 09 00:32:40.436223 2022] [mpm_winnt:notice] [pid 5544:tid 568] AH00418: Parent: Created child process 11328
+[Sun Jan 09 00:32:40.810986 2022] [ssl:warn] [pid 11328:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 00:32:40.866842 2022] [ssl:warn] [pid 11328:tid 584] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 00:32:40.882775 2022] [mpm_winnt:notice] [pid 11328:tid 584] AH00354: Child: Starting 150 worker threads.
+[Sun Jan 09 00:40:41.386977 2022] [ssl:warn] [pid 11232:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 00:40:41.465975 2022] [ssl:warn] [pid 11232:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 00:40:41.488213 2022] [mpm_winnt:notice] [pid 11232:tid 564] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 09 00:40:41.488213 2022] [mpm_winnt:notice] [pid 11232:tid 564] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 09 00:40:41.488213 2022] [core:notice] [pid 11232:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 09 00:40:41.490212 2022] [mpm_winnt:notice] [pid 11232:tid 564] AH00418: Parent: Created child process 3528
+[Sun Jan 09 00:40:41.823095 2022] [ssl:warn] [pid 3528:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 00:40:41.855761 2022] [ssl:warn] [pid 3528:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 00:40:41.872052 2022] [mpm_winnt:notice] [pid 3528:tid 576] AH00354: Child: Starting 150 worker threads.
+[Sun Jan 09 00:49:39.312041 2022] [php:error] [pid 3528:tid 1820] [client 127.0.0.1:2229] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\\xampp\\htdocs\\moodle\\lib\\dml\\mysqli_native_moodle_database.php on line 573, referer: http://127.0.0.1/moodle/install.php
+[Sun Jan 09 00:55:35.944171 2022] [php:error] [pid 3528:tid 1840] [client 127.0.0.1:2271] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\\xampp\\htdocs\\moodle\\lib\\dml\\mysqli_native_moodle_database.php on line 573, referer: http://127.0.0.1/moodle/install.php
+[Sun Jan 09 00:55:37.695537 2022] [php:error] [pid 3528:tid 1820] [client 127.0.0.1:2277] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\\xampp\\htdocs\\moodle\\lib\\dml\\mysqli_native_moodle_database.php on line 573, referer: http://127.0.0.1/moodle/install.php
+[Sun Jan 09 00:58:46.464417 2022] [php:error] [pid 3528:tid 1812] [client 127.0.0.1:2282] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\\xampp\\htdocs\\moodle\\lib\\dml\\mysqli_native_moodle_database.php on line 573, referer: http://127.0.0.1/moodle/install.php
+[Sun Jan 09 01:03:30.074161 2022] [ssl:warn] [pid 14216:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:03:30.122033 2022] [core:warn] [pid 14216:tid 564] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 09 01:03:30.123031 2022] [ssl:warn] [pid 14216:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:03:30.144974 2022] [mpm_winnt:notice] [pid 14216:tid 564] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 09 01:03:30.144974 2022] [mpm_winnt:notice] [pid 14216:tid 564] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 09 01:03:30.144974 2022] [core:notice] [pid 14216:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 09 01:03:30.149960 2022] [mpm_winnt:notice] [pid 14216:tid 564] AH00418: Parent: Created child process 12448
+[Sun Jan 09 01:03:30.482184 2022] [ssl:warn] [pid 12448:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:03:30.525279 2022] [ssl:warn] [pid 12448:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:03:30.540933 2022] [mpm_winnt:notice] [pid 12448:tid 572] AH00354: Child: Starting 150 worker threads.
+[Sun Jan 09 01:13:41.946412 2022] [php:warn] [pid 12448:tid 1836] [client 127.0.0.1:2329] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=12448 in C:\\xampp\\htdocs\\moodle\\lib\\dml\\mysqli_native_moodle_database.php on line 83, referer: http://127.0.0.1/moodle/install.php
+[Sun Jan 09 01:13:41.946412 2022] [php:warn] [pid 12448:tid 1836] [client 127.0.0.1:2329] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\\xampp\\htdocs\\moodle\\lib\\dml\\mysqli_native_moodle_database.php on line 83, referer: http://127.0.0.1/moodle/install.php
+[Sun Jan 09 01:13:41.947445 2022] [php:error] [pid 12448:tid 1836] [client 127.0.0.1:2329] PHP Fatal error:  Maximum execution time of 600 seconds exceeded in C:\\xampp\\htdocs\\moodle\\lib\\dml\\mysqli_native_moodle_database.php on line 83, referer: http://127.0.0.1/moodle/install.php
+[Sun Jan 09 01:32:22.332858 2022] [ssl:warn] [pid 12620:tid 164] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:32:22.385381 2022] [core:warn] [pid 12620:tid 164] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 09 01:32:22.387379 2022] [ssl:warn] [pid 12620:tid 164] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:32:22.662523 2022] [mpm_winnt:notice] [pid 12620:tid 164] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 09 01:32:22.662523 2022] [mpm_winnt:notice] [pid 12620:tid 164] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 09 01:32:22.663491 2022] [core:notice] [pid 12620:tid 164] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 09 01:32:22.664489 2022] [mpm_winnt:notice] [pid 12620:tid 164] AH00418: Parent: Created child process 9648
+[Sun Jan 09 01:32:23.109034 2022] [ssl:warn] [pid 9648:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:32:23.159974 2022] [ssl:warn] [pid 9648:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:32:23.177953 2022] [mpm_winnt:notice] [pid 9648:tid 580] AH00354: Child: Starting 150 worker threads.
+[Sun Jan 09 01:35:37.806141 2022] [ssl:warn] [pid 3868:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:35:37.849825 2022] [core:warn] [pid 3868:tid 564] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 09 01:35:37.854805 2022] [ssl:warn] [pid 3868:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:35:37.890710 2022] [mpm_winnt:notice] [pid 3868:tid 564] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 09 01:35:37.890710 2022] [mpm_winnt:notice] [pid 3868:tid 564] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 09 01:35:37.890710 2022] [core:notice] [pid 3868:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 09 01:35:37.892704 2022] [mpm_winnt:notice] [pid 3868:tid 564] AH00418: Parent: Created child process 13904
+[Sun Jan 09 01:35:38.220017 2022] [ssl:warn] [pid 13904:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:35:38.286820 2022] [ssl:warn] [pid 13904:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:35:38.314660 2022] [mpm_winnt:notice] [pid 13904:tid 572] AH00354: Child: Starting 150 worker threads.
+[Sun Jan 09 01:36:28.036931 2022] [ssl:warn] [pid 10576:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:36:28.098253 2022] [core:warn] [pid 10576:tid 564] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 09 01:36:28.105232 2022] [ssl:warn] [pid 10576:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:36:28.130166 2022] [mpm_winnt:notice] [pid 10576:tid 564] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 09 01:36:28.130166 2022] [mpm_winnt:notice] [pid 10576:tid 564] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 09 01:36:28.130166 2022] [core:notice] [pid 10576:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 09 01:36:28.132187 2022] [mpm_winnt:notice] [pid 10576:tid 564] AH00418: Parent: Created child process 10344
+[Sun Jan 09 01:36:28.487971 2022] [ssl:warn] [pid 10344:tid 544] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:36:28.537956 2022] [ssl:warn] [pid 10344:tid 544] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:36:28.556393 2022] [mpm_winnt:notice] [pid 10344:tid 544] AH00354: Child: Starting 150 worker threads.
+[Sun Jan 09 01:57:50.685659 2022] [ssl:warn] [pid 5984:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:57:50.759739 2022] [core:warn] [pid 5984:tid 576] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 09 01:57:50.761735 2022] [ssl:warn] [pid 5984:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:57:50.785411 2022] [mpm_winnt:notice] [pid 5984:tid 576] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 09 01:57:50.785411 2022] [mpm_winnt:notice] [pid 5984:tid 576] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 09 01:57:50.785411 2022] [core:notice] [pid 5984:tid 576] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 09 01:57:50.801115 2022] [mpm_winnt:notice] [pid 5984:tid 576] AH00418: Parent: Created child process 12664
+[Sun Jan 09 01:57:51.143414 2022] [ssl:warn] [pid 12664:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:57:51.184669 2022] [ssl:warn] [pid 12664:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 09 01:57:51.205051 2022] [mpm_winnt:notice] [pid 12664:tid 596] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 10 16:31:19.693547 2022] [ssl:warn] [pid 11520:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 16:31:19.774902 2022] [core:warn] [pid 11520:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 10 16:31:19.777895 2022] [ssl:warn] [pid 11520:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 16:31:21.442629 2022] [mpm_winnt:notice] [pid 11520:tid 568] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Mon Jan 10 16:31:21.442629 2022] [mpm_winnt:notice] [pid 11520:tid 568] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Jan 10 16:31:21.442629 2022] [core:notice] [pid 11520:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 10 16:31:21.444572 2022] [mpm_winnt:notice] [pid 11520:tid 568] AH00418: Parent: Created child process 3076
+[Mon Jan 10 16:31:21.876890 2022] [ssl:warn] [pid 3076:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 16:31:21.949750 2022] [ssl:warn] [pid 3076:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 16:31:21.993351 2022] [mpm_winnt:notice] [pid 3076:tid 572] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 10 20:30:18.720212 2022] [ssl:warn] [pid 14684:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 20:30:18.824505 2022] [core:warn] [pid 14684:tid 564] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 10 20:30:18.849161 2022] [ssl:warn] [pid 14684:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 20:30:20.293310 2022] [mpm_winnt:notice] [pid 14684:tid 564] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Mon Jan 10 20:30:20.293310 2022] [mpm_winnt:notice] [pid 14684:tid 564] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Jan 10 20:30:20.293310 2022] [core:notice] [pid 14684:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 10 20:30:20.295304 2022] [mpm_winnt:notice] [pid 14684:tid 564] AH00418: Parent: Created child process 4812
+[Mon Jan 10 20:30:20.652977 2022] [ssl:warn] [pid 4812:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 20:30:20.711815 2022] [ssl:warn] [pid 4812:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 20:30:20.731069 2022] [mpm_winnt:notice] [pid 4812:tid 572] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 10 21:01:26.964234 2022] [php:error] [pid 4812:tid 1832] [client 172.16.1.32:59059] script 'C:/xampp/htdocs/install.php' not found or unable to stat
+[Mon Jan 10 21:01:40.985179 2022] [php:error] [pid 4812:tid 1816] [client 172.16.1.32:59060] script 'C:/xampp/htdocs/lndex.php' not found or unable to stat
+[Mon Jan 10 21:01:48.932671 2022] [php:error] [pid 4812:tid 1832] [client 172.16.1.32:59061] script 'C:/xampp/htdocs/install.php' not found or unable to stat
+[Mon Jan 10 21:04:33.253213 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 21:04:33.253213 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 21:04:33.254210 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 21:04:33.254210 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 21:04:33.254210 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 21:04:33.255208 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 21:04:33.255208 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 21:04:33.255208 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 21:04:33.255208 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 21:04:33.256205 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 21:04:33.256205 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 21:04:33.256205 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 21:04:33.257202 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 21:04:33.257202 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 21:04:33.257202 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 21:04:33.257202 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 21:04:33.258199 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 21:04:33.258199 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 21:04:33.258199 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 21:04:33.259197 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 21:04:33.259197 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59086] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 21:07:48.943531 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 21:07:48.944528 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 21:07:48.944528 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 21:07:48.944528 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 21:07:48.945525 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 21:07:48.945525 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 21:07:48.945525 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 21:07:48.945525 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 21:07:48.946523 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 21:07:48.946523 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 21:07:48.946523 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 21:07:48.947520 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 21:07:48.947520 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 21:07:48.947520 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 21:07:48.947520 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 21:07:48.948517 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 21:07:48.948517 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 21:07:48.948517 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 21:07:48.949514 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 21:07:48.949514 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 21:07:48.949514 2022] [authz_core:error] [pid 4812:tid 1808] [client 172.16.1.32:59111] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 21:08:07.320128 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 21:08:07.320128 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 21:08:07.320128 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 21:08:07.321126 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 21:08:07.321126 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 21:08:07.321126 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 21:08:07.322123 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 21:08:07.322123 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 21:08:07.322123 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 21:08:07.322123 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 21:08:07.323120 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 21:08:07.323120 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 21:08:07.323120 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 21:08:07.324117 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 21:08:07.324117 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 21:08:07.324117 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 21:08:07.324117 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 21:08:07.325115 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 21:08:07.325115 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 21:08:07.325115 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 21:08:07.326112 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59110] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 21:19:10.929709 2022] [php:warn] [pid 4812:tid 1808] [client ::1:14237] PHP Warning:  require(../config.php): Failed to open stream: No such file or directory in C:\\xampp\\htdocs\\index.php on line 27
+[Mon Jan 10 21:19:10.930762 2022] [php:error] [pid 4812:tid 1808] [client ::1:14237] PHP Fatal error:  Uncaught Error: Failed opening required '../config.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\index.php:27\nStack trace:\n#0 {main}\n  thrown in C:\\xampp\\htdocs\\index.php on line 27
+[Mon Jan 10 21:20:38.688932 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 21:20:38.689929 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 21:20:38.689929 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 21:20:38.689929 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 21:20:38.690929 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 21:20:38.690929 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 21:20:38.690929 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 21:20:38.691896 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 21:20:38.691896 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 21:20:38.691896 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 21:20:38.691896 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 21:20:38.692921 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 21:20:38.692921 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 21:20:38.692921 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 21:20:38.693918 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 21:20:38.693918 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 21:20:38.693918 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 21:20:38.693918 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 21:20:38.694916 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 21:20:38.694916 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 21:20:38.694916 2022] [authz_core:error] [pid 4812:tid 1824] [client 172.16.1.32:59255] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 21:25:23.969556 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 21:25:23.969556 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 21:25:23.970551 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 21:25:23.970551 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 21:25:23.970551 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 21:25:23.970551 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 21:25:23.971659 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 21:25:23.971659 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 21:25:23.971659 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 21:25:23.972546 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 21:25:23.972546 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 21:25:23.972546 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 21:25:23.972546 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 21:25:23.973543 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 21:25:23.973543 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 21:25:23.973543 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 21:25:23.974543 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 21:25:23.974543 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 21:25:23.974543 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 21:25:23.975510 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 21:25:23.975510 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59293] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 21:45:58.257511 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 21:45:58.257511 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 21:45:58.258508 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 21:45:58.258508 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 21:45:58.258508 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 21:45:58.259505 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 21:45:58.259505 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 21:45:58.259505 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 21:45:58.259505 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 21:45:58.260502 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 21:45:58.260502 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 21:45:58.260502 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 21:45:58.261500 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 21:45:58.261500 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 21:45:58.261500 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 21:45:58.262497 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 21:45:58.262497 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 21:45:58.262497 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 21:45:58.262497 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 21:45:58.263494 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 21:45:58.263494 2022] [authz_core:error] [pid 4812:tid 1836] [client 172.16.1.32:59427] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 21:57:41.678029 2022] [authz_core:error] [pid 4812:tid 1816] [client 172.16.1.32:59492] AH01630: client denied by server configuration: C:/xampp/phpMyAdmin/
+[Mon Jan 10 22:20:03.793140 2022] [ssl:warn] [pid 1920:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:20:03.870638 2022] [core:warn] [pid 1920:tid 564] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 10 22:20:03.872604 2022] [ssl:warn] [pid 1920:tid 564] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:20:03.899530 2022] [mpm_winnt:notice] [pid 1920:tid 564] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Mon Jan 10 22:20:03.899530 2022] [mpm_winnt:notice] [pid 1920:tid 564] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Jan 10 22:20:03.899530 2022] [core:notice] [pid 1920:tid 564] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 10 22:20:03.901555 2022] [mpm_winnt:notice] [pid 1920:tid 564] AH00418: Parent: Created child process 12880
+[Mon Jan 10 22:20:04.264244 2022] [ssl:warn] [pid 12880:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:20:04.348919 2022] [ssl:warn] [pid 12880:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:20:04.368866 2022] [mpm_winnt:notice] [pid 12880:tid 576] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 10 22:20:05.322944 2022] [authz_core:error] [pid 12880:tid 1844] [client 172.16.1.32:59541] AH01630: client denied by server configuration: C:/xampp/phpMyAdmin/
+[Mon Jan 10 22:20:12.936878 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/phpMyAdmin/
+[Mon Jan 10 22:20:16.543400 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/phpMyAdmin/
+[Mon Jan 10 22:20:20.833638 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 22:20:20.833638 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 22:20:20.833638 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 22:20:20.833638 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 22:20:20.834635 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 22:20:20.834635 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 22:20:20.834635 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 22:20:20.835635 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 22:20:20.835635 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 22:20:20.835635 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 22:20:20.835635 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 22:20:20.836630 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 22:20:20.836630 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 22:20:20.836630 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 22:20:20.837628 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 22:20:20.837628 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 22:20:20.837628 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 22:20:20.837628 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 22:20:20.838625 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 22:20:20.838625 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 22:20:20.838625 2022] [authz_core:error] [pid 12880:tid 1848] [client 172.16.1.32:59540] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 22:29:09.629534 2022] [mpm_winnt:crit] [pid 12880:tid 576] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 10 22:29:11.730096 2022] [ssl:warn] [pid 2504:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:29:11.781280 2022] [core:warn] [pid 2504:tid 572] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 10 22:29:11.783301 2022] [ssl:warn] [pid 2504:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:29:11.801255 2022] [mpm_winnt:notice] [pid 2504:tid 572] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Mon Jan 10 22:29:11.801255 2022] [mpm_winnt:notice] [pid 2504:tid 572] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Jan 10 22:29:11.801255 2022] [core:notice] [pid 2504:tid 572] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 10 22:29:11.803224 2022] [mpm_winnt:notice] [pid 2504:tid 572] AH00418: Parent: Created child process 14948
+[Mon Jan 10 22:29:12.132294 2022] [ssl:warn] [pid 14948:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:29:12.183555 2022] [ssl:warn] [pid 14948:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:29:12.203278 2022] [mpm_winnt:notice] [pid 14948:tid 576] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 10 22:29:29.430505 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 22:29:29.430505 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 22:29:29.430505 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 22:29:29.431504 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 22:29:29.431504 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 22:29:29.431504 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 22:29:29.432499 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 22:29:29.432499 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 22:29:29.432499 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 22:29:29.432499 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 22:29:29.433496 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 22:29:29.433496 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 22:29:29.433496 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 22:29:29.434494 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 22:29:29.434494 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 22:29:29.434494 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 22:29:29.434494 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 22:29:29.435491 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 22:29:29.435491 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 22:29:29.435491 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 22:29:29.436488 2022] [authz_core:error] [pid 14948:tid 1848] [client 172.16.1.32:59588] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 22:39:34.861179 2022] [mpm_winnt:crit] [pid 14948:tid 576] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jan 10 22:40:25.557214 2022] [ssl:warn] [pid 9536:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:40:25.607061 2022] [core:warn] [pid 9536:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 10 22:40:25.609057 2022] [ssl:warn] [pid 9536:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:40:25.627040 2022] [mpm_winnt:notice] [pid 9536:tid 568] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Mon Jan 10 22:40:25.627040 2022] [mpm_winnt:notice] [pid 9536:tid 568] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Jan 10 22:40:25.627040 2022] [core:notice] [pid 9536:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 10 22:40:25.628036 2022] [mpm_winnt:notice] [pid 9536:tid 568] AH00418: Parent: Created child process 17024
+[Mon Jan 10 22:40:25.952395 2022] [ssl:warn] [pid 17024:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:40:26.006529 2022] [ssl:warn] [pid 17024:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:40:26.038632 2022] [mpm_winnt:notice] [pid 17024:tid 576] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 10 22:52:50.674345 2022] [ssl:warn] [pid 7876:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:52:50.734944 2022] [core:warn] [pid 7876:tid 572] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 10 22:52:50.735940 2022] [ssl:warn] [pid 7876:tid 572] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:52:50.755887 2022] [mpm_winnt:notice] [pid 7876:tid 572] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Mon Jan 10 22:52:50.755887 2022] [mpm_winnt:notice] [pid 7876:tid 572] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Jan 10 22:52:50.755887 2022] [core:notice] [pid 7876:tid 572] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 10 22:52:50.757910 2022] [mpm_winnt:notice] [pid 7876:tid 572] AH00418: Parent: Created child process 8580
+[Mon Jan 10 22:52:51.106782 2022] [ssl:warn] [pid 8580:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:52:51.184566 2022] [ssl:warn] [pid 8580:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 10 22:52:51.214846 2022] [mpm_winnt:notice] [pid 8580:tid 576] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 10 22:53:25.475251 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php
+[Mon Jan 10 22:53:25.476254 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl
+[Mon Jan 10 22:53:25.476254 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi
+[Mon Jan 10 22:53:25.476254 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp
+[Mon Jan 10 22:53:25.477247 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml
+[Mon Jan 10 22:53:25.477247 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html
+[Mon Jan 10 22:53:25.477247 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm
+[Mon Jan 10 22:53:25.477247 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php
+[Mon Jan 10 22:53:25.478244 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl
+[Mon Jan 10 22:53:25.478244 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi
+[Mon Jan 10 22:53:25.478244 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp
+[Mon Jan 10 22:53:25.478244 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml
+[Mon Jan 10 22:53:25.479244 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html
+[Mon Jan 10 22:53:25.479244 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm
+[Mon Jan 10 22:53:25.479244 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php
+[Mon Jan 10 22:53:25.480238 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl
+[Mon Jan 10 22:53:25.480238 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi
+[Mon Jan 10 22:53:25.480238 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp
+[Mon Jan 10 22:53:25.481238 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml
+[Mon Jan 10 22:53:25.481238 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html
+[Mon Jan 10 22:53:25.481238 2022] [authz_core:error] [pid 8580:tid 1856] [client 172.16.1.32:59648] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm
+[Mon Jan 10 22:53:39.529902 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/index.php, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.529902 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/index.pl, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.530932 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/index.cgi, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.530932 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/index.asp, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.530932 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/index.shtml, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.530932 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/index.html, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.531925 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/index.htm, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.531925 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/default.php, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.531925 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/default.pl, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.532922 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/default.cgi, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.532922 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/default.asp, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.532922 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/default.shtml, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.532922 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/default.html, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.534029 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/default.htm, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.534029 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/home.php, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.534029 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/home.pl, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.534918 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/home.cgi, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.534918 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/home.asp, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.534918 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/home.shtml, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.535912 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/home.html, referer: http://172.16.1.15/xampp/
+[Mon Jan 10 22:53:39.535912 2022] [authz_core:error] [pid 8580:tid 1832] [client 172.16.1.32:59647] AH01630: client denied by server configuration: C:/xampp/webalizer/home.htm, referer: http://172.16.1.15/xampp/
+[Tue Jan 11 01:11:36.443399 2022] [ssl:warn] [pid 1196:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 11 01:11:36.540053 2022] [core:warn] [pid 1196:tid 580] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 11 01:11:36.542048 2022] [ssl:warn] [pid 1196:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 11 01:11:39.473187 2022] [mpm_winnt:notice] [pid 1196:tid 580] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Tue Jan 11 01:11:39.473187 2022] [mpm_winnt:notice] [pid 1196:tid 580] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Jan 11 01:11:39.473187 2022] [core:notice] [pid 1196:tid 580] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Jan 11 01:11:39.475154 2022] [mpm_winnt:notice] [pid 1196:tid 580] AH00418: Parent: Created child process 12344
+[Tue Jan 11 01:11:39.824327 2022] [ssl:warn] [pid 12344:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 11 01:11:39.874709 2022] [ssl:warn] [pid 12344:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 11 01:11:39.894624 2022] [mpm_winnt:notice] [pid 12344:tid 576] AH00354: Child: Starting 150 worker threads.
+[Tue Jan 11 01:19:46.435016 2022] [mpm_winnt:crit] [pid 12344:tid 576] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Thu Jan 13 08:21:05.898249 2022] [ssl:warn] [pid 12876:tid 536] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 13 08:21:06.075334 2022] [core:warn] [pid 12876:tid 536] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jan 13 08:21:06.076330 2022] [ssl:warn] [pid 12876:tid 536] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 13 08:21:07.617975 2022] [mpm_winnt:notice] [pid 12876:tid 536] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Thu Jan 13 08:21:07.617975 2022] [mpm_winnt:notice] [pid 12876:tid 536] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Thu Jan 13 08:21:07.617975 2022] [core:notice] [pid 12876:tid 536] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Jan 13 08:21:07.619971 2022] [mpm_winnt:notice] [pid 12876:tid 536] AH00418: Parent: Created child process 7100
+[Thu Jan 13 08:21:08.049726 2022] [ssl:warn] [pid 7100:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 13 08:21:08.157104 2022] [ssl:warn] [pid 7100:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Jan 13 08:21:08.178048 2022] [mpm_winnt:notice] [pid 7100:tid 576] AH00354: Child: Starting 150 worker threads.
+[Thu Jan 13 08:22:07.833215 2022] [php:notice] [pid 7100:tid 1860] [client 172.16.1.15:6033] [client 172.16.1.15]  http://172.16.1.15/moodle  Invalid Login Token:  admin  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36, referer: http://172.16.1.15/moodle/login/index.php
+[Fri Jan 14 16:15:28.714723 2022] [ssl:warn] [pid 3500:tid 544] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 16:15:28.891551 2022] [core:warn] [pid 3500:tid 544] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 14 16:15:28.902858 2022] [ssl:warn] [pid 3500:tid 544] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 16:15:30.599307 2022] [mpm_winnt:notice] [pid 3500:tid 544] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Fri Jan 14 16:15:30.599307 2022] [mpm_winnt:notice] [pid 3500:tid 544] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Fri Jan 14 16:15:30.599307 2022] [core:notice] [pid 3500:tid 544] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 14 16:15:30.607311 2022] [mpm_winnt:notice] [pid 3500:tid 544] AH00418: Parent: Created child process 10520
+[Fri Jan 14 16:15:31.031886 2022] [ssl:warn] [pid 10520:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 16:15:31.121113 2022] [ssl:warn] [pid 10520:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 14 16:15:31.140092 2022] [mpm_winnt:notice] [pid 10520:tid 576] AH00354: Child: Starting 150 worker threads.
+[Fri Jan 14 16:34:24.456469 2022] [php:warn] [pid 10520:tid 1844] [client 172.16.1.21:12247] PHP Warning:  POST Content-Length of 924366531 bytes exceeds the limit of 41943040 bytes in Unknown on line 0, referer: http://172.16.1.15/moodle/user/files.php
+[Fri Jan 14 16:41:05.072534 2022] [mpm_winnt:crit] [pid 10520:tid 576] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Fri Jan 14 16:41:07.076197 2022] [mpm_winnt:notice] [pid 10520:tid 576] AH00364: Child: All worker threads have exited.
+[Sat Jan 15 06:30:46.144666 2022] [ssl:warn] [pid 8236:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:30:46.201950 2022] [core:warn] [pid 8236:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 15 06:30:46.202945 2022] [ssl:warn] [pid 8236:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:30:47.108798 2022] [mpm_winnt:notice] [pid 8236:tid 568] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sat Jan 15 06:30:47.108798 2022] [mpm_winnt:notice] [pid 8236:tid 568] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sat Jan 15 06:30:47.108798 2022] [core:notice] [pid 8236:tid 568] AH00094: Command line: 'apache\\bin\\httpd.exe -d C:/xampp/apache -f conf\\httpd.conf'
+[Sat Jan 15 06:30:47.138202 2022] [mpm_winnt:notice] [pid 8236:tid 568] AH00418: Parent: Created child process 776
+Apache server shutdown initiated...
+sl:warn] [pid 776:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:30:47.519440 2022] [ssl:warn] [pid 776:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:30:47.537565 2022] [mpm_winnt:notice] [pid 776:tid 580] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 15 06:30:47.552025 2022] [mpm_winnt:notice] [pid 8236:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Jan 15 06:30:49.558946 2022] [mpm_winnt:notice] [pid 776:tid 580] AH00364: Child: All worker threads have exited.
+[Sat Jan 15 06:30:49.595969 2022] [mpm_winnt:notice] [pid 8236:tid 568] AH00430: Parent: Child process 776 exited successfully.
+[Sat Jan 15 06:31:19.463098 2022] [ssl:warn] [pid 7708:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:31:19.565490 2022] [ssl:warn] [pid 7708:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:31:19.584467 2022] [mpm_winnt:notice] [pid 7708:tid 580] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sat Jan 15 06:31:19.584467 2022] [mpm_winnt:notice] [pid 7708:tid 580] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sat Jan 15 06:31:19.584467 2022] [core:notice] [pid 7708:tid 580] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Jan 15 06:31:19.585464 2022] [mpm_winnt:notice] [pid 7708:tid 580] AH00418: Parent: Created child process 12128
+[Sat Jan 15 06:31:19.907851 2022] [ssl:warn] [pid 12128:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:31:19.960376 2022] [ssl:warn] [pid 12128:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:31:19.979462 2022] [mpm_winnt:notice] [pid 12128:tid 580] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 15 06:39:27.975894 2022] [ssl:warn] [pid 9080:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:39:28.017209 2022] [core:warn] [pid 9080:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 15 06:39:28.021163 2022] [ssl:warn] [pid 9080:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:39:28.041136 2022] [mpm_winnt:notice] [pid 9080:tid 568] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sat Jan 15 06:39:28.041136 2022] [mpm_winnt:notice] [pid 9080:tid 568] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sat Jan 15 06:39:28.041136 2022] [core:notice] [pid 9080:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Jan 15 06:39:28.043101 2022] [mpm_winnt:notice] [pid 9080:tid 568] AH00418: Parent: Created child process 2564
+[Sat Jan 15 06:39:28.481701 2022] [ssl:warn] [pid 2564:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:39:28.547417 2022] [ssl:warn] [pid 2564:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:39:28.580175 2022] [mpm_winnt:notice] [pid 2564:tid 576] AH00354: Child: Starting 150 worker threads.
+[Sat Jan 15 06:53:08.323273 2022] [mpm_winnt:crit] [pid 2564:tid 576] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Jan 15 06:53:09.458860 2022] [ssl:warn] [pid 8316:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:53:09.505820 2022] [core:warn] [pid 8316:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jan 15 06:53:09.506817 2022] [ssl:warn] [pid 8316:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:53:09.524769 2022] [mpm_winnt:notice] [pid 8316:tid 568] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sat Jan 15 06:53:09.524769 2022] [mpm_winnt:notice] [pid 8316:tid 568] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sat Jan 15 06:53:09.524769 2022] [core:notice] [pid 8316:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Jan 15 06:53:09.526763 2022] [mpm_winnt:notice] [pid 8316:tid 568] AH00418: Parent: Created child process 13040
+[Sat Jan 15 06:53:09.848509 2022] [ssl:warn] [pid 13040:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:53:09.886427 2022] [ssl:warn] [pid 13040:tid 580] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Jan 15 06:53:09.906053 2022] [mpm_winnt:notice] [pid 13040:tid 580] AH00354: Child: Starting 150 worker threads.
+[Sun Jan 16 04:33:06.843695 2022] [ssl:warn] [pid 11708:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 16 04:33:07.186849 2022] [core:warn] [pid 11708:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 16 04:33:07.188844 2022] [ssl:warn] [pid 11708:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 16 04:33:09.641131 2022] [mpm_winnt:notice] [pid 11708:tid 568] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 16 04:33:09.641131 2022] [mpm_winnt:notice] [pid 11708:tid 568] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 16 04:33:09.641131 2022] [core:notice] [pid 11708:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 16 04:33:09.643126 2022] [mpm_winnt:notice] [pid 11708:tid 568] AH00418: Parent: Created child process 12756
+[Sun Jan 16 04:33:10.059996 2022] [ssl:warn] [pid 12756:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 16 04:33:10.164455 2022] [ssl:warn] [pid 12756:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 16 04:33:10.184166 2022] [mpm_winnt:notice] [pid 12756:tid 556] AH00354: Child: Starting 150 worker threads.
+[Sun Jan 16 04:47:35.729713 2022] [ssl:warn] [pid 1944:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 16 04:47:35.782966 2022] [core:warn] [pid 1944:tid 568] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jan 16 04:47:35.800036 2022] [ssl:warn] [pid 1944:tid 568] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 16 04:47:35.817988 2022] [mpm_winnt:notice] [pid 1944:tid 568] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Sun Jan 16 04:47:35.817988 2022] [mpm_winnt:notice] [pid 1944:tid 568] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Sun Jan 16 04:47:35.817988 2022] [core:notice] [pid 1944:tid 568] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Jan 16 04:47:35.819984 2022] [mpm_winnt:notice] [pid 1944:tid 568] AH00418: Parent: Created child process 1448
+[Sun Jan 16 04:47:36.144628 2022] [ssl:warn] [pid 1448:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 16 04:47:36.183768 2022] [ssl:warn] [pid 1448:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Jan 16 04:47:36.202222 2022] [mpm_winnt:notice] [pid 1448:tid 576] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 17 03:30:33.216808 2022] [ssl:warn] [pid 9664:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 17 03:30:33.352844 2022] [core:warn] [pid 9664:tid 524] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 17 03:30:33.354835 2022] [ssl:warn] [pid 9664:tid 524] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 17 03:30:33.978898 2022] [mpm_winnt:notice] [pid 9664:tid 524] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Mon Jan 17 03:30:33.978898 2022] [mpm_winnt:notice] [pid 9664:tid 524] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Mon Jan 17 03:30:33.978898 2022] [core:notice] [pid 9664:tid 524] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 17 03:30:33.980893 2022] [mpm_winnt:notice] [pid 9664:tid 524] AH00418: Parent: Created child process 6384
+[Mon Jan 17 03:30:34.413089 2022] [ssl:warn] [pid 6384:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 17 03:30:34.471070 2022] [ssl:warn] [pid 6384:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Jan 17 03:30:34.508697 2022] [mpm_winnt:notice] [pid 6384:tid 576] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 17 05:35:59.316944 2022] [php:warn] [pid 6384:tid 1880] [client 172.16.1.21:2868] PHP Warning:  rename(C:\\xampp\\moodledata/cache/cachestore_file/default_application/core_config/b3e-cache/.61e48fbf4c2645.73653993.temp,C:\\xampp\\moodledata/cache/cachestore_file/default_application/core_config/b3e-cache/b3e793659e726b6e3231a24565497d20a405f41b.cache): \xe5\xad\x98\xe5\x8f\x96\xe8\xa2\xab\xe6\x8b\x92\xe3\x80\x82 (code: 5) in C:\\xampp\\htdocs\\moodle\\cache\\stores\\file\\lib.php on line 733, referer: http://172.16.1.15/moodle/admin/purgecaches.php
+[Tue Jan 25 03:36:24.259442 2022] [ssl:warn] [pid 2752:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 25 03:36:24.335332 2022] [core:warn] [pid 2752:tid 556] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 25 03:36:24.343168 2022] [ssl:warn] [pid 2752:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 25 03:36:24.862433 2022] [mpm_winnt:notice] [pid 2752:tid 556] AH00455: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.0.14 configured -- resuming normal operations
+[Tue Jan 25 03:36:24.862433 2022] [mpm_winnt:notice] [pid 2752:tid 556] AH00456: Apache Lounge VS16 Server built: Dec 17 2021 10:17:38
+[Tue Jan 25 03:36:24.862433 2022] [core:notice] [pid 2752:tid 556] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Jan 25 03:36:24.863740 2022] [mpm_winnt:notice] [pid 2752:tid 556] AH00418: Parent: Created child process 8556
+[Tue Jan 25 03:36:25.193681 2022] [ssl:warn] [pid 8556:tid 544] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 25 03:36:25.235525 2022] [ssl:warn] [pid 8556:tid 544] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Jan 25 03:36:25.253431 2022] [mpm_winnt:notice] [pid 8556:tid 544] AH00354: Child: Starting 150 worker threads.

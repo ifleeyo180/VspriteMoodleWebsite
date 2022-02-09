@@ -1,0 +1,1 @@
+a:5:{s:8:"maxbytes";s:34:"嵌入檔案的最大容量(bytes)";s:13:"maxbytes_desc";s:40:"若設為0，將採預設為沒有限制";s:10:"pluginname";s:12:"多行文字";s:14:"fieldtypelabel";s:18:"多行文字欄位";s:16:"privacy:metadata";s:98:"The Textarea field component does not store any personal data, it uses tables defined in mod_data.";}
